@@ -10,5 +10,6 @@ package br.edu.ifes.git;
  * @author Rafael
  */
 public class Fibonacci {
-    int idade;
+    int idade_alterada;
+    float altura;
 }
