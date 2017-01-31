@@ -12,4 +12,5 @@ package br.edu.ifes.git;
 public class Fibonacci {
     int idade_alterada;
     float altura;
+    int i;
 }
